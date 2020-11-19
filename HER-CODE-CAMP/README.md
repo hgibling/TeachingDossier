@@ -1,5 +1,5 @@
 # HER CODE CAMP
-As an instructor and part of the founding team of [HER CODE CAMP](hercodecamp.com), a volunteer group that encourages high school students who identify as female, non-binary, and transgender to explore computer science as a career, I have been involved in developing the hands-on coding curriculum for introductory Python workshops. We have run two sessions so far: our inagural event took place at the University of Toronto in September 2019 and hosted 32 high school students
+As an instructor and part of the founding team of [HER CODE CAMP](www.hercodecamp.com), a volunteer group that encourages high school students who identify as female, non-binary, and transgender to explore computer science as a career, I have been involved in developing the hands-on coding curriculum for introductory Python workshops. Our inagural event took place at the University of Toronto in September 2019 and hosted 32 high school students over two days. Instead of cancelling our event planned for May 2020 due to the COVID-19 pandemic, we adapted our material and created a combination synchronous and asynchronous event with code-along videos, in which 18 students participated.
 
 ## HER CODE CAMP 2019
 * **Date**: September 2019
