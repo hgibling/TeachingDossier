@@ -1,1 +1,30 @@
-# MMG1001
+# MMG1001 - Foundational Genetics Approaches I
+MMG1001 is a required course for incoming graduate students in the Molecular Genetics MSc and PhD programs at the University of Toronto. The course is divided into three units: Genetics, Genomics, and Proteomics. I TAed for the Genomics unit for five weeks in Fall 2020, with primary duties consisting of leading a weekly tutorial that discussed an assignment and leading students through a related computational assignment. Other TA duties included developing the unit syllabus, attending 2 weekly lectures and answering student questions in the chatbox, and assisting with writing questions for the unit exam.
+
+## Genomics Unit
+* **Date**: Fall 2020
+* **Education Level**: 1st year Graduate
+* **Objective**: Discuss genomics papers in detail and expose students to related computational tasks that they might encounter during their graduate career.
+* **Collaborators**: Kaitlin Laverty (University of Toronto) and Laura Campitelli (Univeristy of Toronto)
+* **Materials**: 
+  * [Tutorial 1: Pfam]()
+  * [Tutorial 2: Haplotype Blocks]()
+  * [Tutorial 3: RNAi]()
+  * [Tutorial 4: ChIP-Seq]()
+  * [Assignment 1: Compare tools for protein domain identification]()
+  * [Assignment 2: Investigating linkage disequilibrium in different populations]()
+  * [Assignment 3: Using RNAi screens to predict phenotypes of orthologous genes]()
+  * [Assignment 4: Working with BED Files in Galaxy and Conducting GO Enrichment Analysis]()
+* **My Constributions**: 
+  * Compiled complete slide decks for Tutorials 1 and 3
+  * Modified original slide decks for Tutorials 2 and 4 for clarity and to highlight insightful questions
+  * Primary developer of Assignment 1: Compare tools for protein domain identification and Assignment 3: Using RNAi screens to predict phenotypes of orthologous genes
+    * Developed all questions after discussing general ideas with Kaitlin Laverty
+  * Secondary developer of Assignment 2: Investigating linkage disequilibrium in different populations (originally by Kaitlin Laverty)
+    * Developed the group worksheet, questions 1, 2, and 7, and the additional question
+    * Researched additional loci for a possible haplotype block in BRCA2
+    * Reworded original questions 3-6 for clarity
+  * Edited Assignment 4: Working with BED Files in Galaxy and Conducting GO Enrichment Analysis (originally by Laura Campitelli)
+    * Modified original assignment to simplify the pipeline to work completely in Galaxy and the Gene Ontology website
+    * Reformatted original assignment to better work for teaching in an online environment by adding screenshots
+    * Reworded original steps for clarity
